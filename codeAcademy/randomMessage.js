@@ -17,3 +17,5 @@ console.log('this my third branch')
 
 console.log('I just merged all branches but what happens if I keep typing on third branch')
 console.log('will it change master branch hmmm??')
+
+console.log('editing from git')
